@@ -164,6 +164,7 @@ def answer_from_transcript(question: str, transcript: str) -> str:
     # If no relevant information is found in the transcript or general knowledge
     return "I couldn't find any information related to your question in the transcript, but feel free to ask about Python or coding topics!"
 
+
 def explain_code_snippet(code_snippet: str) -> str:
     """
     Provide an explanation for a given code snippet.
