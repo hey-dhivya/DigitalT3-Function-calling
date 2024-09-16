@@ -7,7 +7,7 @@ Welcome to the AI VIDQUEST application powered by the SambaNova AI Starter Kit! 
 
 🛠 Features
 
-📹 YouTube Transcript Extraction: Upload a YouTube video link and extract the full transcript for analysis.
+- **YouTube Transcript Extraction**: Upload a YouTube video link and extract the full transcript for analysis.
 
 🤖 Context-Aware Chatbot: Ask questions based on the extracted transcript or general Python topics.
 
